@@ -5,7 +5,7 @@ int main()
 {
 	clrscr();
 	int x , y , num , sum=0 ;
-	cout<<"Enter a number ";
+	cout<<"Enter a number to check wheater it is armstrong or not ";
 	cin>>num;
 	x= num;
 	while (num!=0)
